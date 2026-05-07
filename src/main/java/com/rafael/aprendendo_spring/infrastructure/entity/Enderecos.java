@@ -36,5 +36,4 @@ public class Enderecos {
 
     @Column (name = "estado", length = 2)
     private String estado;
-
 }
